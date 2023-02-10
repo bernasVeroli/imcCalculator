@@ -1,0 +1,18 @@
+
+h2 {
+    margin-bottom: 40px;
+}
+body {
+    margin-top: 50px;
+    text-align: center;
+    text-shadow: 5px; 
+    line-height: 0px;
+}
+input {
+    width: 120px;
+}
+button{
+    margin-top: 20px;
+    width: 120px;
+    margin-bottom: 5px;
+}
